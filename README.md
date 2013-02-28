@@ -1,4 +1,4 @@
 Ecwid
 =====
 
-This is the repository of DIBS Ecwid shop module
+This file will soon be updated with installation guide.
