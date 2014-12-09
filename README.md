@@ -1,4 +1,4 @@
 Ecwid
 =====
 
-This file will soon be updated with installation guide.
+DIBS Payment integration for Ecwid shop module
